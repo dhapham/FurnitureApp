@@ -264,7 +264,7 @@ body {
     height: 100%;
 }
 
-#ar-button-style {
+#ar-button {
     width: auto;
     padding: 10px;
     background-color: var(--yellow-cl);
